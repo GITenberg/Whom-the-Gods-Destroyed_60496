@@ -1,5 +1,8 @@
 _repo: Whom-the-Gods-Destroyed_60496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60496-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Josephine Daskam
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60496#Whom-the-Gods-Destroyed
 gutenberg_issued: '2019-10-15'
 gutenberg_type: Text
 identifiers:
